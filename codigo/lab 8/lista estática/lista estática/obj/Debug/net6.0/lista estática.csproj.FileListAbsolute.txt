@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\bin\Debug\net6.0\lista estática.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\bin\Debug\net6.0\lista estática.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\bin\Debug\net6.0\lista estática.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\bin\Debug\net6.0\lista estática.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\bin\Debug\net6.0\lista estática.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\obj\Debug\net6.0\lista estática.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\obj\Debug\net6.0\lista estática.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\obj\Debug\net6.0\lista estática.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\obj\Debug\net6.0\lista estática.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\obj\Debug\net6.0\lista estática.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\obj\Debug\net6.0\lista estática.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\obj\Debug\net6.0\refint\lista estática.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\obj\Debug\net6.0\lista estática.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\obj\Debug\net6.0\lista estática.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\lista estática\lista estática\obj\Debug\net6.0\ref\lista estática.dll

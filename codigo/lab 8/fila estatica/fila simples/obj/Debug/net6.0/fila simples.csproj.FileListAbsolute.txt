@@ -1,0 +1,30 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\bin\Debug\net6.0\fila simples.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\bin\Debug\net6.0\fila simples.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\bin\Debug\net6.0\fila simples.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\bin\Debug\net6.0\fila simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\bin\Debug\net6.0\fila simples.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\obj\Debug\net6.0\fila simples.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\obj\Debug\net6.0\fila simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\obj\Debug\net6.0\fila simples.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\obj\Debug\net6.0\fila simples.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\obj\Debug\net6.0\fila simples.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\obj\Debug\net6.0\fila simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\obj\Debug\net6.0\refint\fila simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\obj\Debug\net6.0\fila simples.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\obj\Debug\net6.0\fila simples.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\fila simples\fila simples\obj\Debug\net6.0\ref\fila simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\obj\Debug\net6.0\fila simples.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\obj\Debug\net6.0\fila simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\obj\Debug\net6.0\fila simples.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\obj\Debug\net6.0\fila simples.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\obj\Debug\net6.0\fila simples.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\obj\Debug\net6.0\fila simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\obj\Debug\net6.0\refint\fila simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\obj\Debug\net6.0\fila simples.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\bin\Debug\net6.0\fila simples.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\bin\Debug\net6.0\fila simples.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\bin\Debug\net6.0\fila simples.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\bin\Debug\net6.0\fila simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\bin\Debug\net6.0\fila simples.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\obj\Debug\net6.0\fila simples.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\fila simples\fila simples\obj\Debug\net6.0\ref\fila simples.dll

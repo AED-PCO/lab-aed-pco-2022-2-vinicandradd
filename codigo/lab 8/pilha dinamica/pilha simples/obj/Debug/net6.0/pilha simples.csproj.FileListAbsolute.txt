@@ -1,0 +1,30 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\bin\Debug\net6.0\pilha simples.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\bin\Debug\net6.0\pilha simples.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\bin\Debug\net6.0\pilha simples.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\bin\Debug\net6.0\pilha simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\bin\Debug\net6.0\pilha simples.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\obj\Debug\net6.0\pilha simples.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\obj\Debug\net6.0\pilha simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\obj\Debug\net6.0\pilha simples.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\obj\Debug\net6.0\pilha simples.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\obj\Debug\net6.0\pilha simples.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\obj\Debug\net6.0\pilha simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\obj\Debug\net6.0\refint\pilha simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\obj\Debug\net6.0\pilha simples.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\obj\Debug\net6.0\pilha simples.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\pilha simples\pilha simples\obj\Debug\net6.0\ref\pilha simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\bin\Debug\net6.0\pilha simples.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\bin\Debug\net6.0\pilha simples.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\bin\Debug\net6.0\pilha simples.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\bin\Debug\net6.0\pilha simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\bin\Debug\net6.0\pilha simples.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\obj\Debug\net6.0\pilha simples.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\obj\Debug\net6.0\pilha simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\obj\Debug\net6.0\pilha simples.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\obj\Debug\net6.0\pilha simples.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\obj\Debug\net6.0\pilha simples.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\obj\Debug\net6.0\pilha simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\obj\Debug\net6.0\refint\pilha simples.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\obj\Debug\net6.0\pilha simples.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\obj\Debug\net6.0\pilha simples.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\FACULDADE\Faculdade 2º periodo\AED\pilha dinamica\pilha simples\obj\Debug\net6.0\ref\pilha simples.dll
